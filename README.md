@@ -7,7 +7,7 @@ Welcome to My Movie Finder! This is a simple and fun app that lets you search fo
 This app was built to make finding and saving movies easy. You can:
 
 * **Search for any movie:** Just type the name of a movie in the search bar.
-* **Save Your Favorites:** See a movie you like? Click the "Add to Favorites" button to save it.
+* **Save Your Favorites:** See a movie you like? Click the poster to save it.
 * **View Your List:** All your saved movies are kept in the "Favorites" section so you can see your personal collection anytime!
 
 
