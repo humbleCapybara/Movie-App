@@ -1,8 +1,6 @@
-# 🎬 My Movie Finder
+# My Movie Finder
 
 Welcome to My Movie Finder! This is a simple and fun app that lets you search for any movie you can think of and save your favorites so you can find them later.
-
-![]
 
 ---
 
@@ -16,7 +14,7 @@ This app was built to make finding and saving movies easy. You can:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 This project was built using:
 
