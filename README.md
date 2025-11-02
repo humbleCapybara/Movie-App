@@ -12,7 +12,6 @@ This app was built to make finding and saving movies easy. You can:
 * **Save Your Favorites:** See a movie you like? Click the "Add to Favorites" button to save it.
 * **View Your List:** All your saved movies are kept in the "Favorites" section so you can see your personal collection anytime!
 
----
 
 ## Technologies Used
 
@@ -21,8 +20,6 @@ This project was built using:
 * **Frontend:** React, HTML/CSS, Vue.js
 * **Database:** localStorage
 * **Movie Data:** The Movie Database (TMDB) API, OMDb API
-
----
 
 ## How to Run This Project
 
