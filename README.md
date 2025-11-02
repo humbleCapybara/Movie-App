@@ -36,7 +36,7 @@ After that, go into the new folder:
 cd movie-app
 ```
 
-### 2. Install the "Ingredients"
+### 2. Install the dependencies
 This project uses a few tools to work. You can install them all by running:
 
 ```
