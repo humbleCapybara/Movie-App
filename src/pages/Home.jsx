@@ -72,8 +72,8 @@ function Home() {
     }
     return (
         <>
-            <div>
-                <h1 className="text-4xl font-bold text-center mt-8 mb-8">
+            <div className=''>
+                <h1 className="text-4xl font-bold text-center mt-24 mb-8">
                     Popular Movies
                 </h1>
                 <form onSubmit={handleSearch} className="flex justify-center">
